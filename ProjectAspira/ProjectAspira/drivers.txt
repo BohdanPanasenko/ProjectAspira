@@ -1,0 +1,4 @@
+10;Bogdan;18;4;Van
+12;Glib;23;0;Comfort
+9;Nikola Tesla;34;4,3333335;UberX
+10;Povilas;22;0;Comfort

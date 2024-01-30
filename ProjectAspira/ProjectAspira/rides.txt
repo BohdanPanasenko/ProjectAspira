@@ -1,0 +1,6 @@
+0;Nikola Tesla;9;Ante;0;4;4;SPLIT;ZADAR
+1;Nikola Tesla;9;Ante;0;5;5;SPLIT;SPLIT
+2;Bogdan;10;Ante;0;3;3;TROGIR;SPLIT
+3;Bogdan;10;Ante;0;4;4;TROGIR;ZADAR
+4;Nikola Tesla;9;Ante;0;4;4;SPLIT;ZADAR
+5;Bogdan;10;Misha;2;5;5;ZAGREB;ZAGREB
